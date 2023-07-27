@@ -1,8 +1,9 @@
 body{background-color: blueviolet;
 
-}
-
 header{background-color: rgb(97, 107, 248);
+display: flex;
+justify-content:space-around;
 }
 
-imagem. 
+
+       .imagem{width: 13%}
